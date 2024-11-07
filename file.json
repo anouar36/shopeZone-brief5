@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Sofa en cuir",
+      "category": "Home",
+      "price": 799.99,
+      "description": "Un canapé en cuir élégant pour votre salon.",
+      "image": "url_to_image_of_sofa.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Table de salle à manger en bois",
+      "category": "Home",
+      "price": 399.99,
+      "description": "Table de salle à manger en chêne massif avec 6 chaises.",
+      "image": "url_to_image_of_table.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Lampe de bureau LED",
+      "category": "Home",
+      "price": 89.99,
+      "description": "Lampe de bureau moderne avec lumière LED réglable.",
+      "image": "url_to_image_of_lamp.jpg"
+    }
+]
+}
